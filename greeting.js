@@ -1,0 +1,1 @@
+chrome.tabs.excuteSript({code: document.querySelector("body").innerHTML});
